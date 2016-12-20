@@ -11,3 +11,4 @@
 | SA          | ![SpeedLimit10](./Icons/Traffic\_Sign/Stop\_Ahead.png) | N/A | 
 | TLA      | ![SpeedLimit10](./Icons/Traffic\_Sign/Turn\_Left\_Ahead.png) | N/A | 
 | YD    | ![SpeedLimit10](./Icons/Traffic\_Sign/Yield.png) | N/A | 
+| STOP | ![Stop](./Icons/Traffic_Sign/Stop.png) | stop_sign |
